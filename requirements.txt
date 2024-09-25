@@ -1,0 +1,4 @@
+Pydantic-settings
+fastapi
+uvicorn
+more-itertools
